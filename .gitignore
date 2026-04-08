@@ -1,1 +1,15 @@
+# Java
 *.class
+
+# Logs
+*.log
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
