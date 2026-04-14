@@ -1,2 +1,2 @@
 # JAVA-Project
-Java Repository
+Java Repository - This repository is for JAVA
