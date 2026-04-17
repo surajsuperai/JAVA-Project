@@ -1,4 +1,4 @@
-package demo;
+package welcomeback.firstprogram;
  public class Demo {
     public static void main(String[] args) {
         System.out.println("Suraj Kumar");

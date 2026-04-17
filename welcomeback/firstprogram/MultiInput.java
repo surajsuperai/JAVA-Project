@@ -1,4 +1,4 @@
-package inputoutput;
+package welcomeback.firstprogram;
 import java.util.Scanner;
 
 public class MultiInput {

@@ -1,4 +1,6 @@
-package inputoutput;
+package welcomeback.firstprogram;
+
+// https://www.w3schools.com/java/java_user_input.asp
 
 import java.util.Scanner;
 public class InputOutput {
